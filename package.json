@@ -1,0 +1,13 @@
+{
+    "name": "Linkedin Job Apply Automation Project",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "description": "",
+    "dependencies": {
+        "nodemon": "^2.0.20",
+        "puppeteer": "^17.1.3"
+    }
+}
