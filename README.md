@@ -1,14 +1,14 @@
-### LinkedIn Job Application Bot ###
-# Overview #
+# LinkedIn Job Application Bot #
+## Overview ##
 The LinkedIn Job Application Bot is an automation tool designed to streamline the job application process on LinkedIn. This bot uses web automation techniques to help users apply for jobs automatically based on specified search criteria. It saves time by navigating LinkedIn job postings, filtering based on preferences, and submitting applications with ease.
 
-# Features  #
+## Features  ##
 Automated Login: Automatically logs into your LinkedIn account using provided credentials.
 Job Search: Searches for job postings on LinkedIn based on specified keywords and filters such as location, job title, and company.
 Application Submission: Automatically submits job applications for the listings that match your search criteria.
 Customizable Settings: Configure application preferences such as the type of job, location, and more to suit your needs.
 
-# Prerequisites #
+## Prerequisites ##
 Before using the bot, ensure you have the following:
 
 Python 3.x: The bot is developed using Python.
